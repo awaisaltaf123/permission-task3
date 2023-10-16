@@ -65,6 +65,7 @@ Npm scripts basically allow us to call (and chain) terminal commands via npm.
 ## Code Coverage
 
 The code coverage is 100%. Below is the image that demonstrates that as well.
+![unit-test-coverage](https://github.com/awaisaltaf123/permission-task3/assets/98595364/d965631c-f2fe-4a86-8817-1c0e30b13672)
 
 ## Deployed
 

@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LeftBox renders spinner correctly 1`] = `
+<div>
+  <div
+    class="spinner w-6 h-6 rounded-full animate-spin
+ border-4 border-solid border-white-500 border-t-transparent pr-2"
+    data-testid="spinner"
+  />
+</div>
+`;
+
+exports[`LeftBox renders the input field and submit button 1`] = `
+<div>
+  <div
+    class="jsx-1788078474 form-box flex-1 ml-4"
+    data-testid="left-box"
+  >
+    <form
+      class="jsx-1788078474 box form p-4 bg-white border border-black rounded p-4 my-4 flex flex-col"
+    >
+      <div
+        class="jsx-1788078474 flex justify-between"
+      >
+        <label
+          class="jsx-1788078474 label"
+        >
+          Enter a valid GUID here.
+        </label>
+      </div>
+      <input
+        class="jsx-1788078474 input border border-black rounded-full p-2 my-4"
+        placeholder="Enter GUID"
+        type="text"
+        value=""
+      />
+      <button
+        class="jsx-1788078474 button bg-yellow-400 rounded-full flex items-center justify-center w-44 h-10"
+        type="submit"
+      >
+        Submit
+      </button>
+    </form>
+    <div
+      class="jsx-1788078474 text-box border border-black rounded p-4 my-4 bg-white w-1/4 break-words"
+    >
+      Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+    </div>
+  </div>
+</div>
+`;

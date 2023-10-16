@@ -62,7 +62,7 @@ const LeftBox: React.FC<LeftBoxProps> = ({
       </form>
       <div className="text-box border border-black rounded p-4 my-4 bg-white w-1/4 break-words">
         Lorem Ipsum is simply dummy text of the printing and typesetting
-        industry. Lorem Ipsum has been the industry's standard dummy text ever
+        industry. Lorem Ipsum has been the industry standard dummy text ever
         since the 1500s.
       </div>
       <style jsx>{`
